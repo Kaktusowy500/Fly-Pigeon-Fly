@@ -16,9 +16,10 @@ Fly, Pigeon, Fly! game was made as a fourth term university project. The main go
 
 ## Screenshots
 Sample screenshots from game:
-<img src="Screenshots/menu.png" width = 800>
-<img src="Screenshots/gameplay.png" width = 800>
-<img src="Screenshots/gameover.png" width = 800>
+
+<img src="Screenshots/menu.png" width = 600>
+<img src="Screenshots/gameplay.png" width = 600>
+<img src="Screenshots/gameover.png" width = 600>
 
 ## Setup
 To play you can easily clone GameRelease folder from this repo and just run .exe file. You could also compile source code on your own. All required files are in Game folder, just remember to compile with SFML library linked, I have used Visual Studio 2019 for this project.  
